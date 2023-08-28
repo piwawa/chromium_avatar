@@ -17,3 +17,4 @@ chromium用户折纸风格头像 | [chromium原仓库对应文件夹](https://gi
 | 12 | redbutterfly | ![cat](./avatar/avatar_redbutterfly.png) |
 | 13 | snail | ![cat](./avatar/avatar_snail.png) |
 | 14 | unicorn | ![cat](./avatar/avatar_unicorn.png) |
+| 15 | tiger | ![cat](./avatar/prettyboy.jpg) |
