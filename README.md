@@ -19,3 +19,5 @@ chromium用户折纸风格头像 | [chromium原仓库对应文件夹](https://gi
 | 14 | unicorn | ![cat](./avatar/avatar_unicorn.png) |
 | 15 | tiger | ![cat](./avatar/prettyboy.jpg) |
 | 16 | openai | ![gpt](./avatar/openai.svg) |
+| 17 | dalle3 | ![gpt](./avatar/logo_by_dalle3.jfif) |
+| 18 | ideogram | ![gpt](./avatar/logo_by_ideogram.webp) |
